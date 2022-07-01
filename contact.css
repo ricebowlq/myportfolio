@@ -1,0 +1,22 @@
+.contactcards{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+.position{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+body{
+    background-image: url("contactbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    background-position: center;
+}
+
+

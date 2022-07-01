@@ -1,0 +1,15 @@
+body{
+    background-image: url("aboutbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    background-position: center;
+}
+
+.position{
+    padding-top: 130px;
+    padding-left: 120px;
+    align-content: center;
+    align-items: center;
+    
+}

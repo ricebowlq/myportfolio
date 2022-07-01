@@ -1,0 +1,56 @@
+.navbar-custom{
+    background-color: white;
+    opacity: 0.8;
+}
+
+.nav-font{
+    font-family: Trebuchet MS;
+    font-weight: bold;
+}
+
+.link-color{
+    color: black;
+}
+
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    background-position: center;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#tmWelcome {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.parallax-window {
+    min-height: 600px;
+    background: transparent;
+}
+
+.tm-bg-black-transparent {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.tm-brand-container {
+    padding: 80px;
+    font-size: 20px;
+}
+
+.text-size{
+    font-size: 50px;
+}
+
+
+
+
+
+  

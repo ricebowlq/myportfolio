@@ -1,0 +1,74 @@
+body{
+    background-image: url(clouds.jpg) ;
+    background-repeat: no-repeat;
+    width: 100vh;
+    background-position: center fixed;
+    background-size: cover;
+}
+
+.sec1 {
+    color: #fff;
+    width: 100%;
+    right: 50%;
+    left: 40%;
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 80px;
+}
+
+.sec1-heading {
+    text-align: center;
+    padding-top: 60px;
+    padding-left: 250px;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.leftimgpost{
+    margin-top: 100px;
+    margin-left: -200px;
+}
+
+.leftimg img{
+    border-radius: 20px;
+    width: 120%;
+}
+
+.righttext{
+    margin-left: 100px;
+}
+
+.white-button a {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #fff;
+    color: #a43f49;
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+#border{
+    border-bottom :5px solid maroon;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.rightimgpost{
+    margin-top: 150px;
+    margin-left: 450px;
+}
+
+.rightimg img{
+    border-radius: 20px;
+    width: 1000%;
+}
+
+.lefttext{
+    margin-left: -350px;
+}
+
