@@ -1,26 +1,45 @@
-.navbar-custom{
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+
+
+.navbar-custom {
     background-color: white;
     opacity: 0.8;
 }
 
-.nav-font{
+.nav-font {
     font-family: Trebuchet MS;
     font-weight: bold;
 }
 
-.link-color{
+.link-color {
     color: black;
 }
 
-body{
-    background-image: url("bg.jpg");
+
+.hover:hover {
+
+    background-color: rgba(10, 1, 1, 0.788);
+    opacity: 1;
+    /* border-radius: 1em; */
+    color: rgb(238, 238, 238);
+}
+
+
+#tmWelcome h1{
+    font-family: 'Kaushan Script', cursive;
+}
+
+body {
+    background-image: url("../bg.jpg");
+    background: linear-gradient(to bottom, rgb(94, 2, 168) 0%, rgba(0, 0, 0, 0.9) 75%, rgba(139, 139, 139, 0.8) 100%);
     background-repeat: no-repeat;
     background-size: cover;
-    height:100vh;
+    height: 100vh;
     background-position: center;
 }
 
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
@@ -45,12 +64,11 @@ body{
     font-size: 20px;
 }
 
-.text-size{
+.text-size {
     font-size: 50px;
 }
 
+.socials {
 
-
-
-
-  
+    float: left;
+}

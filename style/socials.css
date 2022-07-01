@@ -1,6 +1,4 @@
-*{
-    margin:0;
-}
+
   .wrapper {
     position: absolute;
     top: 50%;
@@ -10,7 +8,7 @@
   ul {
     list-style: none;
   } 
-  ul li {
+  .socials ul li {
     width: 50px;
     height: 50px;
     position: relative;
